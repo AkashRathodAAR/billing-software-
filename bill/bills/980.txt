@@ -1,0 +1,37 @@
+		***Welcome Customer***
+
+Bill Number:980
+
+Coustomer Name:arvind
+
+Phone Number:989898989
+
+===========================================================================Product			Quantity			Prices
+===========================================================================
+Bath Soap			8			160 Rs
+Face Cream			89			4450 Rs
+Heair Spary			878			87800 Rs
+Face Wash			54			8100 Rs
+Heair Gel			878			70240 Rs
+Body Locatin			87			5220 Rs
+Rice			566			16980 Rs
+Oil			89			80040 Rs
+Daal			778			77800 Rs
+Wheat			876			70080 Rs
+Sugar			89			350 Rs
+Tea			7			980 Rs
+Maaza			7			350 Rs
+Frooti			7			140 Rs
+Dew			7			210 Rs
+Pepsi			7			140 Rs
+Coca Cola			4			360 Rs
+Sprite			7			280 Rs
+---------------------------------------------------------------------------
+
+Cosmetics Tax				 21116.399999999998 Rs
+Grocery Tax				 123115.0 Rs
+Cold Drink Tax				 118.4 Rs
+
+Total Bill				568029.8
+---------------------------------------------------------------------------
+
